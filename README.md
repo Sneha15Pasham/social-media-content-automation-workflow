@@ -62,3 +62,14 @@ This project automates the creation and publishing of social media content using
 ## 👩‍💻 Author
 
 Sneha Reddy Pasham
+---
+
+# 📸 Project Screenshots
+
+## Workflow
+
+![Workflow](screenshots/workflow.jpeg)
+
+## Execution
+
+![Execution](screenshots/execution.jpg)
